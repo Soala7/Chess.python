@@ -152,6 +152,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **soala7**
 - GitHub: [@soala7](https://github.com/soala7)
+- Want to challange me? search soalasnk on Chess.com
 
 ---
 
